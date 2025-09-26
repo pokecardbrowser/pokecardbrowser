@@ -53,18 +53,23 @@ img {
     min-width: 300px;
 }
 
-.cards {
+.cards, .templates {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); 
     gap: 10px;
     justify-items: center;
 }
 
-.card {
+.card, .template {
     width: 100%;
     height: auto;
     object-fit: cover;
     cursor: pointer;
+}
+
+.template {
+    width: 30vh;
+    height: auto;
 }
 
 .overlay {
