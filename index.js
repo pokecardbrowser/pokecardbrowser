@@ -2,7 +2,7 @@ const overlay = document.getElementById("previewOverlay");
 const previewImg = document.getElementById("previewImg");
 const closeBtn = document.querySelector(".close");
 const themeOpener = document.getElementById("themeOpener");
-const totalThemes = 4;
+const totalThemes = 6;
 let currentTheme;
 
 const tryCurrentTheme = Cookies.get("currentTheme");
