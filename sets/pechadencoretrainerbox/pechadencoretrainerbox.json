@@ -1,0 +1,2113 @@
+{
+  "_type": "tcg-deck-builder-export",
+  "timestamp": 1761339301433,
+  "version": "1.0",
+  "data": [
+    {
+      "id": "batch_1761337808659_3nc1757fv",
+      "name": "Acro Bike",
+      "supertype": "Trainer",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/001.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/001.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/001.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/001.png"
+      },
+      "subtypes": [
+        "Item"
+      ],
+      "types": [],
+      "hp": "",
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Core Trainer Box",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-24T20:30:08.659Z"
+    },
+    {
+      "id": "batch_1761337822031_gl2g1y9g7",
+      "name": "Bebe's Search",
+      "supertype": "Trainer",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/002.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/002.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/002.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/002.png"
+      },
+      "subtypes": [
+        "Supporter"
+      ],
+      "types": [],
+      "hp": "",
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Core Trainer Box",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-24T20:30:22.031Z"
+    },
+    {
+      "id": "batch_1761337834606_s88f6pz6o",
+      "name": "Bill's Maintenance",
+      "supertype": "Trainer",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/003.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/003.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/003.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/003.png"
+      },
+      "subtypes": [
+        "Supporter"
+      ],
+      "types": [],
+      "hp": "",
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Core Trainer Box",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-24T20:30:34.606Z"
+    },
+    {
+      "id": "batch_1761337844509_rckzhpwkg",
+      "name": "Copycat",
+      "supertype": "Trainer",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/004.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/004.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/004.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/004.png"
+      },
+      "subtypes": [
+        "Supporter"
+      ],
+      "types": [],
+      "hp": "",
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Core Trainer Box",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-24T20:30:44.509Z"
+    },
+    {
+      "id": "batch_1761337854610_1gwjqcny9",
+      "name": "Counter Catcher",
+      "supertype": "Trainer",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/005.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/005.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/005.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/005.png"
+      },
+      "subtypes": [
+        "Item"
+      ],
+      "types": [],
+      "hp": "",
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Core Trainer Box",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-24T20:30:54.610Z"
+    },
+    {
+      "id": "batch_1761337865959_khmna7dj6",
+      "name": "Counter Gain",
+      "supertype": "Trainer",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/006.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/006.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/006.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/006.png"
+      },
+      "subtypes": [
+        "Tool"
+      ],
+      "types": [],
+      "hp": "",
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Core Trainer Box",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-24T20:31:05.959Z"
+    },
+    {
+      "id": "batch_1761337875432_ehqwnf1rb",
+      "name": "Crushing Hammer",
+      "supertype": "Trainer",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/007.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/007.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/007.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/007.png"
+      },
+      "subtypes": [
+        "Item"
+      ],
+      "types": [],
+      "hp": "",
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Core Trainer Box",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-24T20:31:15.432Z"
+    },
+    {
+      "id": "batch_1761337886330_xvtbfx4t3",
+      "name": "Damage Mover",
+      "supertype": "Trainer",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/008.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/008.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/008.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/008.png"
+      },
+      "subtypes": [
+        "Item"
+      ],
+      "types": [],
+      "hp": "",
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Core Trainer Box",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-24T20:31:26.330Z"
+    },
+    {
+      "id": "batch_1761337993101_lf9tfgy9x",
+      "name": "Defender",
+      "supertype": "Trainer",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/009.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/009.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/009.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/009.png"
+      },
+      "subtypes": [
+        "Item"
+      ],
+      "types": [],
+      "hp": "",
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Core Trainer Box",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-24T20:33:13.101Z"
+    },
+    {
+      "id": "batch_1761338009841_9ucd08mal",
+      "name": "Energy Retrieval",
+      "supertype": "Trainer",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/010.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/010.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/010.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/010.png"
+      },
+      "subtypes": [
+        "Item"
+      ],
+      "types": [],
+      "hp": "",
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Core Trainer Box",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-24T20:33:29.841Z"
+    },
+    {
+      "id": "batch_1761338022652_rfi3a8n3b",
+      "name": "Energy Search",
+      "supertype": "Trainer",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/011.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/011.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/011.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/011.png"
+      },
+      "subtypes": [
+        "Item"
+      ],
+      "types": [],
+      "hp": "",
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Core Trainer Box",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-24T20:33:42.652Z"
+    },
+    {
+      "id": "batch_1761338033379_r0hkyw870",
+      "name": "Energy Switch",
+      "supertype": "Trainer",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/012.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/012.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/012.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/012.png"
+      },
+      "subtypes": [
+        "Item"
+      ],
+      "types": [],
+      "hp": "",
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Core Trainer Box",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-24T20:33:53.379Z"
+    },
+    {
+      "id": "batch_1761338312998_h5j9d4db4",
+      "name": "Enigma Berry",
+      "supertype": "Trainer",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/013.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/013.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/013.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/013.png"
+      },
+      "subtypes": [
+        "Tool"
+      ],
+      "types": [],
+      "hp": "",
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Core Trainer Box",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-24T20:38:32.998Z"
+    },
+    {
+      "id": "batch_1761338335258_f0e4gznj5",
+      "name": "Exp. Share",
+      "supertype": "Trainer",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/014.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/014.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/014.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/014.png"
+      },
+      "subtypes": [
+        "Tool"
+      ],
+      "types": [],
+      "hp": "",
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Core Trainer Box",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-24T20:38:55.258Z"
+    },
+    {
+      "id": "batch_1761338348069_hmkvvbbfl",
+      "name": "Felicity's Drawing",
+      "supertype": "Trainer",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/015.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/015.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/015.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/015.png"
+      },
+      "subtypes": [
+        "Supporter"
+      ],
+      "types": [],
+      "hp": "",
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Core Trainer Box",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-24T20:39:08.069Z"
+    },
+    {
+      "id": "batch_1761338361019_7lr4kvh3u",
+      "name": "Great Ball",
+      "supertype": "Trainer",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/016.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/016.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/016.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/016.png"
+      },
+      "subtypes": [
+        "Item"
+      ],
+      "types": [],
+      "hp": "",
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Core Trainer Box",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-24T20:39:21.019Z"
+    },
+    {
+      "id": "batch_1761338376495_1a2nzzhc2",
+      "name": "Lanette's Net Search",
+      "supertype": "Trainer",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/017.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/017.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/017.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/017.png"
+      },
+      "subtypes": [
+        "Supporter"
+      ],
+      "types": [],
+      "hp": "",
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Core Trainer Box",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-24T20:39:36.495Z"
+    },
+    {
+      "id": "batch_1761338385822_skx2e1opa",
+      "name": "Leftovers",
+      "supertype": "Trainer",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/018.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/018.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/018.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/018.png"
+      },
+      "subtypes": [
+        "Tool"
+      ],
+      "types": [],
+      "hp": "",
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Core Trainer Box",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-24T20:39:45.822Z"
+    },
+    {
+      "id": "batch_1761338395045_6ol422swm",
+      "name": "Life Herb",
+      "supertype": "Trainer",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/019.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/019.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/019.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/019.png"
+      },
+      "subtypes": [
+        "Item"
+      ],
+      "types": [],
+      "hp": "",
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Core Trainer Box",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-24T20:39:55.045Z"
+    },
+    {
+      "id": "batch_1761338407590_u6u1hurgc",
+      "name": "Lucky Helmet",
+      "supertype": "Trainer",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/020.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/020.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/020.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/020.png"
+      },
+      "subtypes": [
+        "Tool"
+      ],
+      "types": [],
+      "hp": "",
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Core Trainer Box",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-24T20:40:07.590Z"
+    },
+    {
+      "id": "batch_1761338493279_bulb3hnw9",
+      "name": "Oran Berry",
+      "supertype": "Trainer",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/021.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/021.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/021.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/021.png"
+      },
+      "subtypes": [
+        "Tool"
+      ],
+      "types": [],
+      "hp": "",
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Core Trainer Box",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-24T20:41:33.279Z"
+    },
+    {
+      "id": "batch_1761338505337_kb1t0elp2",
+      "name": "PlusPower",
+      "supertype": "Trainer",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/022.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/022.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/022.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/022.png"
+      },
+      "subtypes": [
+        "Item"
+      ],
+      "types": [],
+      "hp": "",
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Core Trainer Box",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-24T20:41:45.337Z"
+    },
+    {
+      "id": "batch_1761338521256_ixj3gq1wu",
+      "name": "Poké Ball",
+      "supertype": "Trainer",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/023.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/023.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/023.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/023.png"
+      },
+      "subtypes": [
+        "Item"
+      ],
+      "types": [],
+      "hp": "",
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Core Trainer Box",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-24T20:42:01.256Z"
+    },
+    {
+      "id": "batch_1761338533910_i9m5dfcke",
+      "name": "Pokédex",
+      "supertype": "Trainer",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/024.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/024.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/024.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/024.png"
+      },
+      "subtypes": [
+        "Item"
+      ],
+      "types": [],
+      "hp": "",
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Core Trainer Box",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-24T20:42:13.910Z"
+    },
+    {
+      "id": "batch_1761338803238_2aakxjjoq",
+      "name": "Pokégear 3.0",
+      "supertype": "Trainer",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/025.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/025.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/025.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/025.png"
+      },
+      "subtypes": [
+        "Item"
+      ],
+      "types": [],
+      "hp": "",
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Core Trainer Box",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-24T20:46:43.238Z"
+    },
+    {
+      "id": "batch_1761338861981_2vpvbbvwx",
+      "name": "Pokémon Catcher",
+      "supertype": "Trainer",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/028.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/028.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/028.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/028.png"
+      },
+      "subtypes": [
+        "Item"
+      ],
+      "types": [],
+      "hp": "",
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Core Trainer Box",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-24T20:47:41.981Z"
+    },
+    {
+      "id": "batch_1761338815359_q30xyahhe",
+      "name": "Pokémon Center Lady",
+      "supertype": "Trainer",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/026.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/026.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/026.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/026.png"
+      },
+      "subtypes": [
+        "Supporter"
+      ],
+      "types": [],
+      "hp": "",
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Core Trainer Box",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-24T20:46:55.359Z"
+    },
+    {
+      "id": "batch_1761338830292_57lj4kkw1",
+      "name": "Pokémon Fan Club",
+      "supertype": "Trainer",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/027.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/027.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/027.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/027.png"
+      },
+      "subtypes": [
+        "Supporter"
+      ],
+      "types": [],
+      "hp": "",
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Core Trainer Box",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-24T20:47:10.292Z"
+    },
+    {
+      "id": "batch_1761338870985_9y95kaxxq",
+      "name": "Potion",
+      "supertype": "Trainer",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/029.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/029.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/029.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/029.png"
+      },
+      "subtypes": [
+        "Item"
+      ],
+      "types": [],
+      "hp": "",
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Core Trainer Box",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-24T20:47:50.985Z"
+    },
+    {
+      "id": "batch_1761338910170_01o1i3hnc",
+      "name": "Professor's Research",
+      "supertype": "Trainer",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/030.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/030.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/030.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/030.png"
+      },
+      "subtypes": [
+        "Supporter"
+      ],
+      "types": [],
+      "hp": "",
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Core Trainer Box",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-24T20:48:30.170Z"
+    },
+    {
+      "id": "batch_1761338947616_9poiv2qdn",
+      "name": "Professor's Research",
+      "supertype": "Trainer",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/030a.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/030a.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/030a.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/030a.png"
+      },
+      "subtypes": [
+        "Supporter"
+      ],
+      "types": [],
+      "hp": "",
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Core Trainer Box",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-24T20:49:07.616Z"
+    },
+    {
+      "id": "batch_1761338958773_rv6x2bfts",
+      "name": "Professor's Research",
+      "supertype": "Trainer",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/030b.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/030b.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/030b.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/030b.png"
+      },
+      "subtypes": [
+        "Supporter"
+      ],
+      "types": [],
+      "hp": "",
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Core Trainer Box",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-24T20:49:18.773Z"
+    },
+    {
+      "id": "batch_1761338975676_w6svqgz2n",
+      "name": "Professor's Research",
+      "supertype": "Trainer",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/030c.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/030c.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/030c.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/030c.png"
+      },
+      "subtypes": [
+        "Supporter"
+      ],
+      "types": [],
+      "hp": "",
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Core Trainer Box",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-24T20:49:35.676Z"
+    },
+    {
+      "id": "batch_1761338984201_39rml38bs",
+      "name": "Professor's Research",
+      "supertype": "Trainer",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/030d.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/030d.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/030d.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/030d.png"
+      },
+      "subtypes": [
+        "Supporter"
+      ],
+      "types": [],
+      "hp": "",
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Core Trainer Box",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-24T20:49:44.201Z"
+    },
+    {
+      "id": "batch_1761338993077_vqwe0u8pd",
+      "name": "Professor's Research",
+      "supertype": "Trainer",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/030e.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/030e.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/030e.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/030e.png"
+      },
+      "subtypes": [
+        "Supporter"
+      ],
+      "types": [],
+      "hp": "",
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Core Trainer Box",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-24T20:49:53.077Z"
+    },
+    {
+      "id": "batch_1761339013134_5jez97yqu",
+      "name": "Professor's Research",
+      "supertype": "Trainer",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/030f.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/030f.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/030f.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/030f.png"
+      },
+      "subtypes": [
+        "Supporter"
+      ],
+      "types": [],
+      "hp": "",
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Core Trainer Box",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-24T20:50:13.134Z"
+    },
+    {
+      "id": "batch_1761339023602_6iyqmxevm",
+      "name": "Professor's Research",
+      "supertype": "Trainer",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/030g.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/030g.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/030g.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/030g.png"
+      },
+      "subtypes": [
+        "Supporter"
+      ],
+      "types": [],
+      "hp": "",
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Core Trainer Box",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-24T20:50:23.602Z"
+    },
+    {
+      "id": "batch_1761339035664_n3nme2hy2",
+      "name": "Professor's Research",
+      "supertype": "Trainer",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/030h.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/030h.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/030h.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/030h.png"
+      },
+      "subtypes": [
+        "Supporter"
+      ],
+      "types": [],
+      "hp": "",
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Core Trainer Box",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-24T20:50:35.664Z"
+    },
+    {
+      "id": "batch_1761339053380_c26yl2n48",
+      "name": "Professor's Research",
+      "supertype": "Trainer",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/030i.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/030i.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/030i.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/030i.png"
+      },
+      "subtypes": [
+        "Supporter"
+      ],
+      "types": [],
+      "hp": "",
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Core Trainer Box",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-24T20:50:53.380Z"
+    },
+    {
+      "id": "batch_1761339069556_8nlrh5drp",
+      "name": "Psychic's Third Eye",
+      "supertype": "Trainer",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/031.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/031.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/031.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/031.png"
+      },
+      "subtypes": [
+        "Supporter"
+      ],
+      "types": [],
+      "hp": "",
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Core Trainer Box",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-24T20:51:09.556Z"
+    },
+    {
+      "id": "batch_1761339088335_nw2fc3r0e",
+      "name": "Rare Candy",
+      "supertype": "Trainer",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/032.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/032.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/032.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/032.png"
+      },
+      "subtypes": [
+        "Item"
+      ],
+      "types": [],
+      "hp": "",
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Core Trainer Box",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-24T20:51:28.335Z"
+    },
+    {
+      "id": "batch_1761339099331_hmvjljvkc",
+      "name": "Repeat Ball",
+      "supertype": "Trainer",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/033.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/033.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/033.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/033.png"
+      },
+      "subtypes": [
+        "Item"
+      ],
+      "types": [],
+      "hp": "",
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Core Trainer Box",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-24T20:51:39.331Z"
+    },
+    {
+      "id": "batch_1761339108008_fz7ebmu61",
+      "name": "Rival",
+      "supertype": "Trainer",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/034.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/034.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/034.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/034.png"
+      },
+      "subtypes": [
+        "Supporter"
+      ],
+      "types": [],
+      "hp": "",
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Core Trainer Box",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-24T20:51:48.008Z"
+    },
+    {
+      "id": "batch_1761339118433_3xozxpzux",
+      "name": "Rival",
+      "supertype": "Trainer",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/034a.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/034a.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/034a.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/034a.png"
+      },
+      "subtypes": [
+        "Supporter"
+      ],
+      "types": [],
+      "hp": "",
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Core Trainer Box",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-24T20:51:58.433Z"
+    },
+    {
+      "id": "batch_1761339127606_xp22v5wfk",
+      "name": "Rival",
+      "supertype": "Trainer",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/034b.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/034b.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/034b.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/034b.png"
+      },
+      "subtypes": [
+        "Supporter"
+      ],
+      "types": [],
+      "hp": "",
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Core Trainer Box",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-24T20:52:07.606Z"
+    },
+    {
+      "id": "batch_1761339141080_ztcnw24sj",
+      "name": "Rival",
+      "supertype": "Trainer",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/034c.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/034c.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/034c.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/034c.png"
+      },
+      "subtypes": [
+        "Supporter"
+      ],
+      "types": [],
+      "hp": "",
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Core Trainer Box",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-24T20:52:21.080Z"
+    },
+    {
+      "id": "batch_1761339170958_gjjblkuyh",
+      "name": "Rival",
+      "supertype": "Trainer",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/034d.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/034d.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/034d.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/034d.png"
+      },
+      "subtypes": [
+        "Supporter"
+      ],
+      "types": [],
+      "hp": "",
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Core Trainer Box",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-24T20:52:50.958Z"
+    },
+    {
+      "id": "batch_1761339181720_8b5dephl5",
+      "name": "Rival",
+      "supertype": "Trainer",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/034e.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/034e.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/034e.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/034e.png"
+      },
+      "subtypes": [
+        "Supporter"
+      ],
+      "types": [],
+      "hp": "",
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Core Trainer Box",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-24T20:53:01.720Z"
+    },
+    {
+      "id": "batch_1761339195293_7heiagi4t",
+      "name": "Rival",
+      "supertype": "Trainer",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/034f.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/034f.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/034f.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/034f.png"
+      },
+      "subtypes": [
+        "Supporter"
+      ],
+      "types": [],
+      "hp": "",
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Core Trainer Box",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-24T20:53:15.293Z"
+    },
+    {
+      "id": "batch_1761339207483_qyits2j65",
+      "name": "Rival",
+      "supertype": "Trainer",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/034g.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/034g.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/034g.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/034g.png"
+      },
+      "subtypes": [
+        "Supporter"
+      ],
+      "types": [],
+      "hp": "",
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Core Trainer Box",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-24T20:53:27.483Z"
+    },
+    {
+      "id": "batch_1761339221038_mmkj43b41",
+      "name": "Rocky Helmet",
+      "supertype": "Trainer",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/035.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/035.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/035.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/035.png"
+      },
+      "subtypes": [
+        "Tool"
+      ],
+      "types": [],
+      "hp": "",
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Core Trainer Box",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-24T20:53:41.038Z"
+    },
+    {
+      "id": "batch_1761339237021_win8k5ka7",
+      "name": "Super Potion",
+      "supertype": "Trainer",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/036.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/036.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/036.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/036.png"
+      },
+      "subtypes": [
+        "Item"
+      ],
+      "types": [],
+      "hp": "",
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Core Trainer Box",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-24T20:53:57.021Z"
+    },
+    {
+      "id": "batch_1761339254183_sw8y2hjf1",
+      "name": "Switch",
+      "supertype": "Trainer",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/037.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/037.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/037.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/037.png"
+      },
+      "subtypes": [
+        "Item"
+      ],
+      "types": [],
+      "hp": "",
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Core Trainer Box",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-24T20:54:14.183Z"
+    },
+    {
+      "id": "batch_1761339266249_jhruxf9mr",
+      "name": "Weakness Policy",
+      "supertype": "Trainer",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/038.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/038.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/038.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadencoretrainerbox/038.png"
+      },
+      "subtypes": [
+        "Tool"
+      ],
+      "types": [],
+      "hp": "",
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Core Trainer Box",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-24T20:54:26.249Z"
+    }
+  ]
+}

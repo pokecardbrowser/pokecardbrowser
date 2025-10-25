@@ -1,0 +1,3086 @@
+{
+  "_type": "tcg-deck-builder-export",
+  "timestamp": 1760798077651,
+  "version": "1.0",
+  "data": [
+    {
+      "id": "batch_1760796691149_u45iqaqc5",
+      "name": "Arbok",
+      "supertype": "Pokémon",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/022.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/022.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/022.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/022.png"
+      },
+      "subtypes": [
+        "ex",
+        "Stage 1"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": 260,
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Base Set",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-18T14:11:31.149Z"
+    },
+    {
+      "id": "batch_1760796836611_axxvrvval",
+      "name": "Arbok",
+      "supertype": "Pokémon",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/023.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/023.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/023.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/023.png"
+      },
+      "subtypes": [
+        "ex",
+        "Stage 1"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": 260,
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Base Set",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-18T14:13:56.611Z"
+    },
+    {
+      "id": "batch_1760797744645_bjvt70l7i",
+      "name": "Barboach",
+      "supertype": "Pokémon",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/060.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/060.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/060.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/060.png"
+      },
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": 60,
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Base Set",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-18T14:29:04.645Z"
+    },
+    {
+      "id": "batch_1760797408891_fu3ve8q3p",
+      "name": "Blastoise",
+      "supertype": "Pokémon",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/045.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/045.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/045.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/045.png"
+      },
+      "subtypes": [
+        "Stage 2",
+        "ex"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": 330,
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Base Set",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-18T14:23:28.891Z"
+    },
+    {
+      "id": "batch_1760797628260_tymvd6a6n",
+      "name": "Blastoise",
+      "supertype": "Pokémon",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/054.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/054.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/054.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/054.png"
+      },
+      "subtypes": [
+        "Stage 2",
+        "ex"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": 330,
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Base Set",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-18T14:27:08.260Z"
+    },
+    {
+      "id": "batch_1760471020804_effxz4wkr",
+      "name": "Blipbug",
+      "supertype": "Pokémon",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/001.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/001.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/001.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/001.png"
+      },
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": 50,
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Base Set",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-14T19:43:40.804Z"
+    },
+    {
+      "id": "batch_1760797638238_smcvyyycg",
+      "name": "Blue's Training",
+      "supertype": "Trainer",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/055.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/055.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/055.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/055.png"
+      },
+      "subtypes": [
+        "Supporter"
+      ],
+      "types": [],
+      "hp": "",
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Base Set",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-18T14:27:18.238Z"
+    },
+    {
+      "id": "batch_1760797658504_jcepof8bq",
+      "name": "Blue's Training",
+      "supertype": "Trainer",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/056.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/056.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/056.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/056.png"
+      },
+      "subtypes": [
+        "Supporter"
+      ],
+      "types": [],
+      "hp": "",
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Base Set",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-18T14:27:38.504Z"
+    },
+    {
+      "id": "batch_1760797288453_24pjpv3mk",
+      "name": "Bulbasaur",
+      "supertype": "Pokémon",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/037.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/037.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/037.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/037.png"
+      },
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": 70,
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Base Set",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-18T14:21:28.453Z"
+    },
+    {
+      "id": "batch_1760797423359_d56aew5zb",
+      "name": "Bulbasaur",
+      "supertype": "Pokémon",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/046.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/046.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/046.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/046.png"
+      },
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": 70,
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Base Set",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-18T14:23:43.359Z"
+    },
+    {
+      "id": "batch_1760797374737_9ivshkw8s",
+      "name": "Charizard",
+      "supertype": "Pokémon",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/042.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/042.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/042.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/042.png"
+      },
+      "subtypes": [
+        "Stage 2",
+        "ex"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": 320,
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Base Set",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-18T14:22:54.737Z"
+    },
+    {
+      "id": "batch_1760797574471_inmr7zt71",
+      "name": "Charizard",
+      "supertype": "Pokémon",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/051.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/051.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/051.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/051.png"
+      },
+      "subtypes": [
+        "Stage 2",
+        "ex"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": 320,
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Base Set",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-18T14:26:14.471Z"
+    },
+    {
+      "id": "batch_1760797335470_nhs5p0sj0",
+      "name": "Charmander",
+      "supertype": "Pokémon",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/040.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/040.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/040.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/040.png"
+      },
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": 60,
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Base Set",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-18T14:22:15.470Z"
+    },
+    {
+      "id": "batch_1760797554403_wj0a5oa56",
+      "name": "Charmander",
+      "supertype": "Pokémon",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/049.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/049.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/049.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/049.png"
+      },
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": 60,
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Base Set",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-18T14:25:54.403Z"
+    },
+    {
+      "id": "batch_1760797360524_jfv1txrok",
+      "name": "Charmeleon",
+      "supertype": "Pokémon",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/041.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/041.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/041.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/041.png"
+      },
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": 90,
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Base Set",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-18T14:22:40.524Z"
+    },
+    {
+      "id": "batch_1760797564195_12nvkw58w",
+      "name": "Charmeleon",
+      "supertype": "Pokémon",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/050.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/050.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/050.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/050.png"
+      },
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": 90,
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Base Set",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-18T14:26:04.195Z"
+    },
+    {
+      "id": "batch_1760794832906_991850nau",
+      "name": "Chatot",
+      "supertype": "Pokémon",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/009.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/009.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/009.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/009.png"
+      },
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": 60,
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Base Set",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-18T13:40:32.906Z"
+    },
+    {
+      "id": "batch_1760797232844_920rktbqz",
+      "name": "Chimecho",
+      "supertype": "Pokémon",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/033.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/033.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/033.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/033.png"
+      },
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": 70,
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Base Set",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-18T14:20:32.844Z"
+    },
+    {
+      "id": "batch_1760794412747_e1sv5iah4",
+      "name": "Cloyster",
+      "supertype": "Pokémon",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/005.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/005.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/005.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/005.png"
+      },
+      "subtypes": [
+        "ex",
+        "Stage 1"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": 270,
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Base Set",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-18T13:33:32.747Z"
+    },
+    {
+      "id": "batch_1760794426044_gqdoxws48",
+      "name": "Cloyster",
+      "supertype": "Pokémon",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/006.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/006.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/006.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/006.png"
+      },
+      "subtypes": [
+        "ex",
+        "Stage 1"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": 270,
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Base Set",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-18T13:33:46.044Z"
+    },
+    {
+      "id": "batch_1760798014804_2x1f7znbx",
+      "name": "Cynthia's Battle Strategy",
+      "supertype": "Trainer",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/074.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/074.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/074.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/074.png"
+      },
+      "subtypes": [
+        "Supporter"
+      ],
+      "types": [],
+      "hp": "",
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Base Set",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-18T14:33:34.804Z"
+    },
+    {
+      "id": "batch_1760798030028_75120lte1",
+      "name": "Cynthia's Battle Strategy",
+      "supertype": "Trainer",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/075.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/075.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/075.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/075.png"
+      },
+      "subtypes": [
+        "Supporter"
+      ],
+      "types": [],
+      "hp": "",
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Base Set",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-18T14:33:50.028Z"
+    },
+    {
+      "id": "batch_1760471029711_tv4z2xbcs",
+      "name": "Dottler",
+      "supertype": "Pokémon",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/002.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/002.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/002.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/002.png"
+      },
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [],
+      "hp": 80,
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Base Set",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-14T19:43:49.711Z"
+    },
+    {
+      "id": "batch_1760797121401_2d7103vn7",
+      "name": "Dragonair",
+      "supertype": "Pokémon",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/029.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/029.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/029.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/029.png"
+      },
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Dragon"
+      ],
+      "hp": 90,
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Base Set",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-18T14:18:41.401Z"
+    },
+    {
+      "id": "batch_1760797089721_zt918rbm4",
+      "name": "Dragonite",
+      "supertype": "Pokémon",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/027.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/027.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/027.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/027.png"
+      },
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Dragon"
+      ],
+      "hp": 90,
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Base Set",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-18T14:18:09.721Z"
+    },
+    {
+      "id": "batch_1760797107488_pg5odgeer",
+      "name": "Dragonite",
+      "supertype": "Pokémon",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/028.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/028.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/028.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/028.png"
+      },
+      "subtypes": [
+        "Stage 2",
+        "ex"
+      ],
+      "types": [
+        "Dragon"
+      ],
+      "hp": 320,
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Base Set",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-18T14:18:27.488Z"
+    },
+    {
+      "id": "batch_1760797135823_8kdjhc1pl",
+      "name": "Dragonite",
+      "supertype": "Pokémon",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/030.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/030.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/030.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/030.png"
+      },
+      "subtypes": [
+        "Stage 2",
+        "ex"
+      ],
+      "types": [
+        "Dragon"
+      ],
+      "hp": 320,
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Base Set",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-18T14:18:55.823Z"
+    },
+    {
+      "id": "batch_1760797077173_aggw7u15o",
+      "name": "Dratini",
+      "supertype": "Pokémon",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/026.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/026.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/026.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/026.png"
+      },
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Dragon"
+      ],
+      "hp": 60,
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Base Set",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-18T14:17:57.173Z"
+    },
+    {
+      "id": "batch_1760796638677_jumdwuh78",
+      "name": "Durant",
+      "supertype": "Pokémon",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/018.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/018.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/018.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/018.png"
+      },
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": 110,
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Base Set",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-18T14:10:38.677Z"
+    },
+    {
+      "id": "batch_1760797175424_gy54xu9lm",
+      "name": "Eiscue",
+      "supertype": "Pokémon",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/032.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/032.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/032.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/032.png"
+      },
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": 110,
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Base Set",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-18T14:19:35.424Z"
+    },
+    {
+      "id": "batch_1760796677350_5tgfu2nsz",
+      "name": "Ekans",
+      "supertype": "Pokémon",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/021.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/021.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/021.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/021.png"
+      },
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": 60,
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Base Set",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-18T14:11:17.350Z"
+    },
+    {
+      "id": "batch_1760796665168_1d86jmsub",
+      "name": "Expert Bug Catcher",
+      "supertype": "Trainer",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/020.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/020.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/020.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/020.png"
+      },
+      "subtypes": [
+        "Supporter"
+      ],
+      "types": [],
+      "hp": "",
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Base Set",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-18T14:11:05.168Z"
+    },
+    {
+      "id": "batch_1760797969503_xshplxyjh",
+      "name": "Gabite",
+      "supertype": "Pokémon",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/071.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/071.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/071.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/071.png"
+      },
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": 100,
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Base Set",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-18T14:32:49.503Z"
+    },
+    {
+      "id": "batch_1760797982021_uadqxnoo8",
+      "name": "Garchomp",
+      "supertype": "Pokémon",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/072.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/072.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/072.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/072.png"
+      },
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": 160,
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Base Set",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-18T14:33:02.021Z"
+    },
+    {
+      "id": "batch_1760798002688_nws6xw46r",
+      "name": "Garchomp",
+      "supertype": "Pokémon",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/073.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/073.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/073.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/073.png"
+      },
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": 160,
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Base Set",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-18T14:33:22.688Z"
+    },
+    {
+      "id": "batch_1760797945399_bh09p3mtx",
+      "name": "Gible",
+      "supertype": "Pokémon",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/070.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/070.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/070.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/070.png"
+      },
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": 70,
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Base Set",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-18T14:32:25.399Z"
+    },
+    {
+      "id": "batch_1760797260333_w3lk7wf0m",
+      "name": "Gourgeist",
+      "supertype": "Pokémon",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/035.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/035.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/035.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/035.png"
+      },
+      "subtypes": [
+        "Stage 1",
+        "ex"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": 260,
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Base Set",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-18T14:21:00.333Z"
+    },
+    {
+      "id": "batch_1760794820847_qc204eeor",
+      "name": "Hariyama",
+      "supertype": "Pokémon",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/008.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/008.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/008.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/008.png"
+      },
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": 130,
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Base Set",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-18T13:40:20.847Z"
+    },
+    {
+      "id": "batch_1760796652832_gjpw9uoa8",
+      "name": "Heracross",
+      "supertype": "Pokémon",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/019.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/019.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/019.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/019.png"
+      },
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": 110,
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Base Set",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-18T14:10:52.833Z"
+    },
+    {
+      "id": "batch_1760797299186_e27jfkdu8",
+      "name": "Ivysaur",
+      "supertype": "Pokémon",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/038.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/038.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/038.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/038.png"
+      },
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": 100,
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Base Set",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-18T14:21:39.186Z"
+    },
+    {
+      "id": "batch_1760797434456_3uv3to2rv",
+      "name": "Ivysaur",
+      "supertype": "Pokémon",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/047.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/047.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/047.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/047.png"
+      },
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": 100,
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Base Set",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-18T14:23:54.456Z"
+    },
+    {
+      "id": "batch_1760797275744_3l4i0vu1c",
+      "name": "Jirachi",
+      "supertype": "Pokémon",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/036.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/036.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/036.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/036.png"
+      },
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Metal"
+      ],
+      "hp": 70,
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Base Set",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-18T14:21:15.744Z"
+    },
+    {
+      "id": "batch_1760794978639_3qymzvdus",
+      "name": "Lapras",
+      "supertype": "Pokémon",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/015.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/015.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/015.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/015.png"
+      },
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": 120,
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Base Set",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-18T13:42:58.639Z"
+    },
+    {
+      "id": "batch_1760794988811_nnhvf7u7w",
+      "name": "Lapras",
+      "supertype": "Pokémon",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/016.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/016.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/016.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/016.png"
+      },
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": 120,
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Base Set",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-18T13:43:08.811Z"
+    },
+    {
+      "id": "batch_1760797705384_8ktc3p5ok",
+      "name": "Larvesta",
+      "supertype": "Pokémon",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/057.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/057.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/057.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/057.png"
+      },
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": 70,
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Base Set",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-18T14:28:25.384Z"
+    },
+    {
+      "id": "batch_1760797733605_kzmobr88m",
+      "name": "Larvesta",
+      "supertype": "Pokémon",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/059.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/059.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/059.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/059.png"
+      },
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": 70,
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Base Set",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-18T14:28:53.605Z"
+    },
+    {
+      "id": "batch_1760794777668_bejsrkdcp",
+      "name": "Makuhita",
+      "supertype": "Pokémon",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/007.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/007.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/007.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/007.png"
+      },
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": 80,
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Base Set",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-18T13:39:37.668Z"
+    },
+    {
+      "id": "batch_1760797767168_24w2jy692",
+      "name": "Onix",
+      "supertype": "Pokémon",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/062.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/062.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/062.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/062.png"
+      },
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": 110,
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Base Set",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-18T14:29:27.168Z"
+    },
+    {
+      "id": "batch_1760471040264_z70wpbmcm",
+      "name": "Orbeetle",
+      "supertype": "Pokémon",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/003.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/003.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/003.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/003.png"
+      },
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [],
+      "hp": 110,
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Base Set",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-14T19:44:00.264Z"
+    },
+    {
+      "id": "batch_1760796622170_i2u9lalgv",
+      "name": "Pinsir",
+      "supertype": "Pokémon",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/017.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/017.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/017.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/017.png"
+      },
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": 110,
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Base Set",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-18T14:10:22.170Z"
+    },
+    {
+      "id": "batch_1760797244394_ljedqztjf",
+      "name": "Pumpkaboo",
+      "supertype": "Pokémon",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/034.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/034.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/034.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/034.png"
+      },
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": 60,
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Base Set",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-18T14:20:44.394Z"
+    },
+    {
+      "id": "batch_1760796847216_xon7ujqiu",
+      "name": "Rotom Phone",
+      "supertype": "Trainer",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/024.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/024.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/024.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/024.png"
+      },
+      "subtypes": [
+        "Item"
+      ],
+      "types": [],
+      "hp": "",
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Base Set",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-18T14:14:07.216Z"
+    },
+    {
+      "id": "batch_1760797062556_8pvkbowbm",
+      "name": "Rotom Phone",
+      "supertype": "Trainer",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/025.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/025.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/025.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/025.png"
+      },
+      "subtypes": [
+        "Item"
+      ],
+      "types": [],
+      "hp": "",
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Base Set",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-18T14:17:42.556Z"
+    },
+    {
+      "id": "batch_1760794844996_tcb8h2q5o",
+      "name": "Sableye",
+      "supertype": "Pokémon",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/010.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/010.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/010.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/010.png"
+      },
+      "subtypes": [
+        "Basic",
+        "ex"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": 190,
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Base Set",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-18T13:40:44.996Z"
+    },
+    {
+      "id": "batch_1760794855833_rt9mg3bqx",
+      "name": "Sableye",
+      "supertype": "Pokémon",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/011.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/011.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/011.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/011.png"
+      },
+      "subtypes": [
+        "Basic",
+        "ex"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": 190,
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Base Set",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-18T13:40:55.833Z"
+    },
+    {
+      "id": "batch_1760794871403_9rj73wvnx",
+      "name": "Sableye",
+      "supertype": "Pokémon",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/012.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/012.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/012.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/012.png"
+      },
+      "subtypes": [
+        "ex",
+        "Basic"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": 190,
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Base Set",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-18T13:41:11.403Z"
+    },
+    {
+      "id": "batch_1760794884506_x296ihqhy",
+      "name": "Sableye",
+      "supertype": "Pokémon",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/013.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/013.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/013.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/013.png"
+      },
+      "subtypes": [
+        "Basic",
+        "ex"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": 190,
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Base Set",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-18T13:41:24.506Z"
+    },
+    {
+      "id": "batch_1760794396674_7jvnmhxe7",
+      "name": "Shellder",
+      "supertype": "Pokémon",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/004.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/004.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/004.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/004.png"
+      },
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": 70,
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Base Set",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-18T13:33:16.674Z"
+    },
+    {
+      "id": "batch_1760794901786_edcnzfso2",
+      "name": "Snorlax",
+      "supertype": "Pokémon",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/014.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/014.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/014.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/014.png"
+      },
+      "subtypes": [
+        "Basic",
+        "ex"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": 240,
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Base Set",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-18T13:41:41.786Z"
+    },
+    {
+      "id": "batch_1760797385311_twyxnsqrr",
+      "name": "Squirtle",
+      "supertype": "Pokémon",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/043.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/043.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/043.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/043.png"
+      },
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": 70,
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Base Set",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-18T14:23:05.311Z"
+    },
+    {
+      "id": "batch_1760797592724_w84sogmaq",
+      "name": "Squirtle",
+      "supertype": "Pokémon",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/052.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/052.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/052.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/052.png"
+      },
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": 70,
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Base Set",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-18T14:26:32.724Z"
+    },
+    {
+      "id": "batch_1760797778470_pyt8t5yli",
+      "name": "Steelix",
+      "supertype": "Pokémon",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/063.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/063.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/063.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/063.png"
+      },
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Metal"
+      ],
+      "hp": 180,
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Base Set",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-18T14:29:38.470Z"
+    },
+    {
+      "id": "batch_1760797925261_irircrq6s",
+      "name": "Togekiss",
+      "supertype": "Pokémon",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/069.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/069.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/069.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/069.png"
+      },
+      "subtypes": [
+        "Stage 2",
+        "ex"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": 290,
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Base Set",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-18T14:32:05.261Z"
+    },
+    {
+      "id": "batch_1760797820856_z9squl91j",
+      "name": "Togepi",
+      "supertype": "Pokémon",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/066.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/066.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/066.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/066.png"
+      },
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": 50,
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Base Set",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-18T14:30:20.856Z"
+    },
+    {
+      "id": "batch_1760797839388_0vwe1sxu2",
+      "name": "Togetic",
+      "supertype": "Pokémon",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/067.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/067.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/067.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/067.png"
+      },
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": 80,
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Base Set",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-18T14:30:39.388Z"
+    },
+    {
+      "id": "batch_1760797867908_4v68fg1o1",
+      "name": "Togetic",
+      "supertype": "Pokémon",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/068.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/068.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/068.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/068.png"
+      },
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": 80,
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Base Set",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-18T14:31:07.908Z"
+    },
+    {
+      "id": "batch_1760797322176_6rqs5ri00",
+      "name": "Venusaur",
+      "supertype": "Pokémon",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/039.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/039.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/039.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/039.png"
+      },
+      "subtypes": [
+        "Stage 2",
+        "ex"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": 340,
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Base Set",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-18T14:22:02.176Z"
+    },
+    {
+      "id": "batch_1760797464826_p8rjk59lp",
+      "name": "Venusaur",
+      "supertype": "Pokémon",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/048.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/048.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/048.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/048.png"
+      },
+      "subtypes": [
+        "ex",
+        "Stage 2"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": 340,
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Base Set",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-18T14:24:24.827Z"
+    },
+    {
+      "id": "batch_1760797715503_ntmlfwws3",
+      "name": "Volcarona",
+      "supertype": "Pokémon",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/058.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/058.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/058.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/058.png"
+      },
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": 120,
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Base Set",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-18T14:28:35.503Z"
+    },
+    {
+      "id": "batch_1760797398221_vj6zu78nw",
+      "name": "Wartortle",
+      "supertype": "Pokémon",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/044.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/044.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/044.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/044.png"
+      },
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": 100,
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Base Set",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-18T14:23:18.221Z"
+    },
+    {
+      "id": "batch_1760797607807_a5y259t6s",
+      "name": "Wartortle",
+      "supertype": "Pokémon",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/053.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/053.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/053.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/053.png"
+      },
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": 100,
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Base Set",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-18T14:26:47.807Z"
+    },
+    {
+      "id": "batch_1760797756420_mukc8ubyq",
+      "name": "Whiscash",
+      "supertype": "Pokémon",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/061.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/061.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/061.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/061.png"
+      },
+      "subtypes": [
+        "ex"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": 270,
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Base Set",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-18T14:29:16.420Z"
+    },
+    {
+      "id": "batch_1760797155796_5gsdgjbh6",
+      "name": "Zacian",
+      "supertype": "Pokémon",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/031.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/031.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/031.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/031.png"
+      },
+      "subtypes": [
+        "Basic",
+        "ex"
+      ],
+      "types": [
+        "Metal"
+      ],
+      "hp": 220,
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Base Set",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-18T14:19:15.796Z"
+    },
+    {
+      "id": "batch_1760797791371_n1txsylry",
+      "name": "Zeraora",
+      "supertype": "Pokémon",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/064.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/064.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/064.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/064.png"
+      },
+      "subtypes": [
+        "Basic",
+        "ex"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": 210,
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Base Set",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-18T14:29:51.371Z"
+    },
+    {
+      "id": "batch_1760797811088_wldprf1l9",
+      "name": "Zeraora",
+      "supertype": "Pokémon",
+      "isCustom": true,
+      "image": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/065.png",
+      "imageUrl": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/065.png",
+      "images": {
+        "small": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/065.png",
+        "large": "https://pokecardbrowser.duckdns.org/img/sets/pechadenbaseset/065.png"
+      },
+      "subtypes": [
+        "Basic",
+        "ex"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": 210,
+      "evolvesFrom": "",
+      "customSetName": "PechaDen - Base Set",
+      "setNumber": null,
+      "number": null,
+      "set": null,
+      "attacks": [],
+      "abilities": [],
+      "weaknesses": [],
+      "resistances": [],
+      "retreatCost": [],
+      "convertedRetreatCost": 0,
+      "artist": "Custom Creator",
+      "rarity": "Common",
+      "flavorText": "",
+      "legalities": {
+        "standard": "Legal",
+        "expanded": "Legal",
+        "custom": "Legal"
+      },
+      "forteData": {},
+      "rules": [],
+      "created": "2025-10-18T14:30:11.088Z"
+    }
+  ]
+}
