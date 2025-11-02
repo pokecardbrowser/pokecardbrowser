@@ -14,17 +14,13 @@ if (tryCurrentTheme) {
 };
 
 
-function updateTheme() {
-    document.body.style.backgroundImage = `url('https://pokecardbrowser-dev.duckdns.org/img/backgrounds/background${currentTheme}.png')`;
-    Cookies.set("currentTheme", currentTheme, {expires: 365});
+function setTheme(themeId) {
+    document.body.style.backgroundImage = `url('https://pokecardbrowser-dev.duckdns.org/img/backgrounds/background${themeId}.png')`;
+    Cookies.set("currentTheme", themeId, {expires: 365});
 };
 
 themeOpener.addEventListener("click", () => {
-    currentTheme += 1;
-    if (currentTheme > totalThemes) {
-        currentTheme = 1;
-    };
-    updateTheme();
+    window.location.href = "/themes/";
 });
 
 try {
@@ -37,12 +33,21 @@ try {
         a.click();
         a.remove();
     });
-} catch {
-    
-};
+} catch {};
 
 try {
-    previewTypes = ["card", "template"]
+    const themeDisplays = document.querySelectorAll(".themeDisplay");
+    themeDisplays.forEach(themeDisplay => {
+        themeDisplay.addEventListener("click", () => {
+            themePath = themeDisplay.src;
+            themeId = parseInt(themePath.match(/background(\d+)\.png/)[1], 10);
+            setTheme(themeId);
+        });
+    });
+} catch {};
+
+try {
+    previewTypes = ["card", "template"];
     previewTypes.forEach(type => {
         document.querySelectorAll(`.${type}`).forEach(item => {
             item.addEventListener("click", () => {
@@ -61,8 +66,6 @@ try {
         overlay.style.display = "none";
         }
     });
-} catch {
-    
-};
+} catch {};
 
-updateTheme();
+setTheme(currentTheme);
