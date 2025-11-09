@@ -88,6 +88,11 @@ img {
     cursor: pointer;
 }
 
+.cardPreview {
+    width: 15%;
+    height: auto;
+}
+
 .template {
     width: 30vh;
     height: auto;
@@ -153,4 +158,21 @@ button {
 
 a {
     text-decoration: underline;
+}
+
+.moves, .pokedexEntry {
+    width: 25%;
+    margin: 0 auto;
+    text-align: left;
+}
+
+p img {
+    display: inline-block;
+    vertical-align: middle;
+    height: 1.3em;
+    width: auto;
+}
+
+.abilityName {
+    color: #ff5454FF;
 }
